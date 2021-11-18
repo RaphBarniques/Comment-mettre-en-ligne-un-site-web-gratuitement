@@ -40,6 +40,7 @@
     ![Capture9](https://user-images.githubusercontent.com/94623626/142447996-63c45e5b-3164-4c85-8d83-af848c2cb389.PNG)
 
   * Entrez ensuite le nom de votre site et le mot de passe pour l'édition de celui-ci. Appuyer ensuite sur Créer.
+  
     ![Capture10](https://user-images.githubusercontent.com/94623626/142448292-974c6dc8-3849-4880-a842-e114db643cd6.PNG)
     
   * Vous arriverez sur l'interface pour votre site web. Ici, vous pourriez décider de télécharger WordPress sur votre site, d'utiliser       l'éditeur de site web ou charger vos propres fichiers. Mais avant cela, nous irons lier le domaine au site de l'hébergeur. Cliquez       donc sur Outils puis Définir l'adresse web. Cliquez ensuite sur Ajouter un domaine
