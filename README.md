@@ -20,8 +20,8 @@
     ![Capture4](https://user-images.githubusercontent.com/94623626/142442291-62227f1b-a27d-4756-9982-9a6ef5742619.PNG)
     ![Capture5](https://user-images.githubusercontent.com/94623626/142442313-123fc552-4249-4991-8652-57a60e4cd3d3.PNG)
 
-  * Vous arriverez sur la page Réviser et payer. Pas d'inquiétude, vous n'aurez pas besoin d'entrer d'information de paiement. Simplement       appuyer sur Compléter la commande
-    ![Capture7](https://user-images.githubusercontent.com/94623626/142442812-4738ab68-d5e5-4f29-97c5-277b37af3619.PNG)
+  * Vous arriverez sur la page Réviser et payer. Pas d'inquiétude, vous n'aurez pas besoin d'entrer d'information de paiement. Simplement      appuyer sur Compléter la commande
+    ![Capture6](https://user-images.githubusercontent.com/94623626/142456521-d3023119-8fe6-45b0-8f41-44356251a563.PNG)
 
   * Vous serez redirigés sur le tableau de bord de Freenom. Nous y reviendrons à la prochaine étape.
     ![Capture7](https://user-images.githubusercontent.com/94623626/142443096-4b2a8f6c-e436-4062-922e-c11be963a17b.PNG)
@@ -43,7 +43,8 @@
   * Dans la fenêtre pop-up, sélectionnez l'option domaine garé puis cliquez sur suivant.
     ![Capture12](https://user-images.githubusercontent.com/94623626/142450181-c2e07415-f3db-4916-97d6-af03113e6f92.PNG)
 
-  * Ensuite entrez le nom de domaine de votre site. Avant de continuer nous devrons faire une autre petite manipulation. Pour ce faire copier dans le presse-papier, les 2 adresse en gras.
+  * Ensuite entrez le nom de domaine de votre site. Avant de continuer nous devrons faire une autre petite manipulation. Pour ce faire       copier dans le presse-papier, les 2 adresse en gras.
+  
     ![Capture13](https://user-images.githubusercontent.com/94623626/142450594-5f09e3ae-a15d-4c58-b3e7-2cb6660e610d.PNG)
 
   * Retournez sur le site www.freenom.com. Sur votre tableau de bord entrez dans Outils de gestion puis serveurs de noms.
