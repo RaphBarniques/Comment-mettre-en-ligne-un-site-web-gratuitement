@@ -1,17 +1,19 @@
 # Comment mettre en ligne une page web gratuitement
 
-* Turoriel vidéo complet : 
+## Turoriel vidéo complet : 
 
  [![Comment mettre en ligne un site web gratuitement](https://res.cloudinary.com/marcomontalbano/image/upload/v1637255325/video_to_markdown/images/youtube--WugeNXnXyrI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=WugeNXnXyrI "Comment mettre en ligne un site web gratuitement")
 
-* Les étapes
+## Tutoriel clic par clic :
+
+### Les étapes
   * Réserver le nom de domaine
   * Choisir une solution d'hébergement et le lier au nom de domaine
   * Téléverser les fichier de votre site sur la plateforme de l'hébergeur
 
 * Première étape
   * Réserver le nom de domaine<br>
-    Bien que la plupart des compagnies vendent les noms de domaine, il est possible de s'en procurer un gratuitement. Un des sites qui         permet de le faire est www.freenom.com. Une fois un compte créé, il vous permettra de réserver un nom de domaine gratuitement pour une     période maximale de 12 mois. Après cela, vous devrez le réserver de nouveau. Voici comment faire:
+    Bien que la plupart des compagnies vendent les noms de domaine, il est possible de s'en procurer un gratuitement. Un des sites qui         permet de le faire est www.freenom.com. Une fois un compte créé, il vous permettra de réserver un nom de domaine gratuitement pour une période maximale de 12 mois. Après cela, vous devrez le réserver de nouveau. Voici comment faire:
     
   * Rendez-vous sur www.freenom.com et entrer le nom de domaine que vous souhiatez réserver. Cliquez ensuite sur Vérifier la disponibilité.
     ![Capture](https://user-images.githubusercontent.com/94623626/142440320-e4013296-48fc-4d2e-a8e2-8b2327222b81.PNG)
