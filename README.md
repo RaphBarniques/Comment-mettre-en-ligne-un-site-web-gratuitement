@@ -60,6 +60,7 @@
     ![Capture15](https://user-images.githubusercontent.com/94623626/142451652-f72d1187-3a48-41b7-b27e-66f97ec89adb.PNG)
   
   * Une fois le message de confirmation reçu, retournez sur www.000webhost.com et confirmez avec le bouton Domaine garé. Vous devriez         voir votre nom de domaine apparaître dans la liste.
+  
     ![Capture17](https://user-images.githubusercontent.com/94623626/142452043-1a4e5751-2d1f-4a67-adc6-1c5ed6a8df2d.PNG)
     ![Capture18](https://user-images.githubusercontent.com/94623626/142452067-7eddb950-7aa3-4729-9440-b4b4c1e3addf.PNG)
 
@@ -76,6 +77,7 @@
     ![Capture21](https://user-images.githubusercontent.com/94623626/142453932-06738c4b-856c-4266-98fe-57c56bcdf70c.PNG)
 
   * Une fois les fichiers sélectionnés, cliquez sur Upload. Vos fichiers devraient apparaître dans le gestionnaire.
+  
     ![Capture22](https://user-images.githubusercontent.com/94623626/142454045-ced13ea7-6f0d-49e5-97fb-7b529b4394a9.PNG)
 
   * Vous pouvez maintenant entrer votre nom de domaine dans la barre d'adresse! Voilà!
