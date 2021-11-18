@@ -1,5 +1,9 @@
 # Comment mettre en ligne une page web gratuitement
 
+* Turoriel vidéo complet : 
+
+ [![Comment mettre en ligne un site web gratuitement](https://res.cloudinary.com/marcomontalbano/image/upload/v1637255325/video_to_markdown/images/youtube--WugeNXnXyrI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=WugeNXnXyrI "Comment mettre en ligne un site web gratuitement")
+
 * Les étapes
   * Réserver le nom de domaine
   * Choisir une solution d'hébergement et le lier au nom de domaine
