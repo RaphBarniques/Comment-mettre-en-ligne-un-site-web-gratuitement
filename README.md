@@ -11,7 +11,7 @@
   * Choisir une solution d'hébergement et le lier au nom de domaine
   * Téléverser les fichier de votre site sur la plateforme de l'hébergeur
 
-* Première étape
+### Première étape
   * Réserver le nom de domaine<br>
     Bien que la plupart des compagnies vendent les noms de domaine, il est possible de s'en procurer un gratuitement. Un des sites qui         permet de le faire est www.freenom.com. Une fois un compte créé, il vous permettra de réserver un nom de domaine gratuitement pour une période maximale de 12 mois. Après cela, vous devrez le réserver de nouveau. Voici comment faire:
     
@@ -32,7 +32,7 @@
   * Vous serez redirigés sur le tableau de bord de Freenom. Nous y reviendrons à la prochaine étape.
     ![Capture7](https://user-images.githubusercontent.com/94623626/142443096-4b2a8f6c-e436-4062-922e-c11be963a17b.PNG)
  
- * Deuxième étape
+ ### Deuxième étape
   * Choisir une solution d'hébergement et y lier le nom de domaine.<br>
     L'hébergeur est la compagnie à qui appartient les serveurs sur lesquels seront entreposer votre site web de façon à ce que les           utilisateurs puisse y accéder. Nous utiliserons le site www.000webhost.com. Une fois un compte créé, vous pourrez héberger               gratuitement un site web pour ce compte. Voici comment faire:
     
@@ -63,7 +63,7 @@
     ![Capture17](https://user-images.githubusercontent.com/94623626/142452043-1a4e5751-2d1f-4a67-adc6-1c5ed6a8df2d.PNG)
     ![Capture18](https://user-images.githubusercontent.com/94623626/142452067-7eddb950-7aa3-4729-9440-b4b4c1e3addf.PNG)
 
-* Troisième étape
+### Troisième étape
   * Nous ajouterons maintenant les fichiers du site par le gestionnaire de fichier de www.000webhost.com. Voici comment:
 
   * Sur la plateforme dirigez-vous vers Outils puis Gestionnaire de fichiers. Cliquez ensuite sur Télécharger des fichiers.
@@ -78,7 +78,7 @@
   * Une fois les fichiers sélectionnés, cliquez sur Upload. Vos fichiers devraient apparaître dans le gestionnaire.
     ![Capture22](https://user-images.githubusercontent.com/94623626/142454045-ced13ea7-6f0d-49e5-97fb-7b529b4394a9.PNG)
 
-  * Vous pouvez maintenant entrer votre nom de domaine dans la barre d'adresse et voilà!
+  * Vous pouvez maintenant entrer votre nom de domaine dans la barre d'adresse! Voilà!
     ![Capture23](https://user-images.githubusercontent.com/94623626/142454263-48ced484-4684-4ef1-8f67-261be40dd0e8.PNG)
 
 
