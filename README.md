@@ -13,13 +13,13 @@
 
 ### Première étape
   * Réserver le nom de domaine<br>
-    Bien que la plupart des compagnies vendent les noms de domaine, il est possible de s'en procurer un gratuitement. Un des sites qui         permet de le faire est www.freenom.com. Une fois un compte créé, il vous permettra de réserver un nom de domaine gratuitement pour une période maximale de 12 mois. Après cela, vous devrez le réserver de nouveau. Voici comment faire:
+    Bien que la plupart des compagnies vendent les noms de domaine, il est possible de s'en procurer un gratuitement. Un des sites qui       permet de le faire est www.freenom.com. Une fois un compte créé, il vous permettra de réserver un nom de domaine gratuitement pour       une période maximale de 12 mois. Après cela, vous devrez le réserver de nouveau. Voici comment faire:
     
-  * Rendez-vous sur www.freenom.com et entrer le nom de domaine que vous souhaitez réserver. Cliquez ensuite sur Vérifier la disponibilité.
+  * Rendez-vous sur www.freenom.com et entrer le nom de domaine que vous souhaitez réserver. Cliquez ensuite sur Vérifier la                 disponibilité.
   
     ![Capture](https://user-images.githubusercontent.com/94623626/142440320-e4013296-48fc-4d2e-a8e2-8b2327222b81.PNG)
     
-  * Vous verrez les domaines gratuits disponibles. Les domaine courants comme .com, .net  ou .ca sont des domaines payants. Cependant vous     aurez quelques options. Lorsque vous aurez choisi, cliquez sur Get it now puis Checkout.
+  * Vous verrez les domaines gratuits disponibles. Les domaine courants comme .com, .net  ou .ca sont des domaines payants. Cependant         vous aurez quelques options. Lorsque vous aurez choisi, cliquez sur Get it now puis Checkout.
   
     ![Capture2](https://user-images.githubusercontent.com/94623626/142441505-30738353-7f8c-47a9-9a7a-64471c6b1673.PNG)
   
